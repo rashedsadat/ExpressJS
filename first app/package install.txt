@@ -1,0 +1,12 @@
+-----JSON package install
+npm init --y
+
+-----EXPRESS JS package install
+npm install express --save
+
+-----BODY-PARSER install
+npm install body-parser
+
+-----MULTER install
+npm install --save multer
+
